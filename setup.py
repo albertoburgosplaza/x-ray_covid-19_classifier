@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="x-ray_covid-19_classifier",
+    name="xrayc19",
     packages=find_packages(),
     version="0.1.0",
-    description="x-ray_covid-19_classifier",
-    author="Alberto Burgos  (albertoburgosplaza@gmail.com)",
+    description="x-ray-covid-19-classifier",
+    author="Alberto Burgos (albertoburgosplaza@gmail.com)",
     license="Apache",
 )
